@@ -10,7 +10,7 @@ public class Clase1 {
 		int c = 0;
 		while(xd== false) {
 			if (entradan.next().charAt(0)== 'q') xd = true;
-			System.out.println("Hola mundo "+c);
+			System.out.println("Hola munzzzdo "+c);
 			c++;
 		}
 
